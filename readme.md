@@ -4,6 +4,7 @@ Working on a template with basic functionalities that I can use for game jams.
 - Font: https://rurr.itch.io/tremolo-mono
 - HTML5 File Dialog plugin: https://gitlab.com/mocchapi/godot-4-html5-file-dialogs
 - Pixel art planets generator: https://deep-fold.itch.io/pixel-planet-generator
+- Pixel art space background generator: https://deep-fold.itch.io/space-background-generator
 
 ### To-do:
 - [ ] Prototype

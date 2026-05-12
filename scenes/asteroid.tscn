@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bpchjfc08rr0w"]
+
+[ext_resource type="Script" uid="uid://c7tsugic2sxsm" path="res://scenes/asteroid.gd" id="1_akfqu"]
+
+[node name="Asteroid" type="Node2D" unique_id=1272772455]
+script = ExtResource("1_akfqu")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1360509257]
